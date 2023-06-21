@@ -1,0 +1,86 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DTO
+</name>
+</assembly>
+<members>
+<member name="T:DTO.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DTO.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DTO.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:DTO.Bank">
+ <summary>
+ BaseInfo
+ @CreatedBy      : Hoa Nguyen Quoc
+ @Created        : 2023/06/21
+ @Modified       :
+ </summary>
+ <remarks>Class Bank</remarks>
+</member>
+<member name="T:DTO.BaseInfo">
+ <summary>
+ BaseInfo
+ </summary>
+ <remarks>Class include infomation for all class</remarks>
+</member>
+<member name="T:DTO.Charge">
+ <summary>
+ Charge
+ @CreatedBy      : Hoa Nguyen Quoc
+ @Created        : 2023/06/21
+ @Modified       :
+ </summary>
+ <remarks>Class ReCharge</remarks>
+</member>
+<member name="T:DTO.Customer">
+ <summary>
+ Customer
+ @CreatedBy      : Hoa Nguyen Quoc
+ @Created        : 2023/06/21
+ @Modified       :
+ </summary>
+ <remarks>Class Customer</remarks>
+</member>
+<member name="T:DTO.Employee">
+ <summary>
+ Employee
+ @CreatedBy      : Hoa Nguyen Quoc
+ @Created        : 2023/06/21
+ @Modified       :
+ </summary>
+ <remarks>Class Employee</remarks>
+</member>
+<member name="T:DTO.ReCharge">
+ <summary>
+ ReCharge
+ @CreatedBy      : Hoa Nguyen Quoc
+ @Created        : 2023/06/21
+ @Modified       :
+ </summary>
+ <remarks>Class ReCharge</remarks>
+</member>
+<member name="T:DTO.Role">
+ <summary>
+ Role
+ @CreatedBy      : Hoa Nguyen Quoc
+ @Created        : 2023/06/21
+ @Modified       :
+ </summary>
+ <remarks>Class Role</remarks>
+</member>
+</members>
+</doc>

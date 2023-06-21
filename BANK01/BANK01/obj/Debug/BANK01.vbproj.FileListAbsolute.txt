@@ -1,0 +1,12 @@
+D:\database-distribute\BANK01\BANK01\bin\Debug\BANK01.exe.config
+D:\database-distribute\BANK01\BANK01\bin\Debug\BANK01.exe
+D:\database-distribute\BANK01\BANK01\bin\Debug\BANK01.pdb
+D:\database-distribute\BANK01\BANK01\bin\Debug\BANK01.xml
+D:\database-distribute\BANK01\BANK01\obj\Debug\BANK01.vbproj.AssemblyReference.cache
+D:\database-distribute\BANK01\BANK01\obj\Debug\BANK01.frmLogin.resources
+D:\database-distribute\BANK01\BANK01\obj\Debug\BANK01.Resources.resources
+D:\database-distribute\BANK01\BANK01\obj\Debug\BANK01.vbproj.GenerateResource.cache
+D:\database-distribute\BANK01\BANK01\obj\Debug\BANK01.vbproj.CoreCompileInputs.cache
+D:\database-distribute\BANK01\BANK01\obj\Debug\BANK01.exe
+D:\database-distribute\BANK01\BANK01\obj\Debug\BANK01.xml
+D:\database-distribute\BANK01\BANK01\obj\Debug\BANK01.pdb

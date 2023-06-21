@@ -1,0 +1,10 @@
+D:\database-distribute\BANK01\BUS\bin\Debug\BUS.dll
+D:\database-distribute\BANK01\BUS\bin\Debug\BUS.pdb
+D:\database-distribute\BANK01\BUS\bin\Debug\BUS.xml
+D:\database-distribute\BANK01\BUS\obj\Debug\BUS.vbproj.AssemblyReference.cache
+D:\database-distribute\BANK01\BUS\obj\Debug\BUS.Resources.resources
+D:\database-distribute\BANK01\BUS\obj\Debug\BUS.vbproj.GenerateResource.cache
+D:\database-distribute\BANK01\BUS\obj\Debug\BUS.vbproj.CoreCompileInputs.cache
+D:\database-distribute\BANK01\BUS\obj\Debug\BUS.dll
+D:\database-distribute\BANK01\BUS\obj\Debug\BUS.xml
+D:\database-distribute\BANK01\BUS\obj\Debug\BUS.pdb
