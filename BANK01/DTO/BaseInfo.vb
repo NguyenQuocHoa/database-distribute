@@ -1,5 +1,8 @@
 ﻿''' <summary>
 ''' BaseInfo
+''' @CreatedBy      : Hoa Nguyen Quoc
+''' @Created        : 2023/06/21
+''' @Modified       :
 ''' </summary>
 ''' <remarks>Class include infomation for all class</remarks>
 Public MustInherit Class BaseInfo

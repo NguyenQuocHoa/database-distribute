@@ -10,3 +10,7 @@ D:\database-distribute\BANK01\BANK01\obj\Debug\BANK01.vbproj.CoreCompileInputs.c
 D:\database-distribute\BANK01\BANK01\obj\Debug\BANK01.exe
 D:\database-distribute\BANK01\BANK01\obj\Debug\BANK01.xml
 D:\database-distribute\BANK01\BANK01\obj\Debug\BANK01.pdb
+D:\database-distribute\BANK01\BANK01\bin\Debug\DAL.dll
+D:\database-distribute\BANK01\BANK01\bin\Debug\DAL.pdb
+D:\database-distribute\BANK01\BANK01\bin\Debug\DAL.xml
+D:\database-distribute\BANK01\BANK01\obj\Debug\BANK01.vbproj.CopyComplete

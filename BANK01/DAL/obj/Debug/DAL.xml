@@ -22,5 +22,32 @@ DAL
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="T:DAL.BankDAL">
+ <summary>
+ BankDAL
+ @CreatedBy      : Hoa Nguyen Quoc
+ @Created        : 2023/06/22
+ @Modified       :
+ </summary>
+ <remarks>Class BankDAL</remarks>
+</member>
+<member name="T:DAL.BaseDAL">
+ <summary>
+ BaseDAL
+ @CreatedBy      : Hoa Nguyen Quoc
+ @Created        : 2023/06/22
+ @Modified       :
+ </summary>
+ <remarks>Class BaseDAL</remarks>
+</member>
+<member name="T:DAL.Connection">
+ <summary>
+ Connection
+ @CreatedBy      : Hoa Nguyen Quoc
+ @Created        : 2023/06/22
+ @Modified       :
+ </summary>
+ <remarks>Class Make Connection</remarks>
+</member>
 </members>
 </doc>

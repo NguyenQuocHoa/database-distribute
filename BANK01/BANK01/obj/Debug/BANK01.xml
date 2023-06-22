@@ -22,5 +22,14 @@ BANK01
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="T:BANK01.frmLogin">
+ <summary>
+ frmLogin
+ @CreatedBy      : Hoa Nguyen Quoc
+ @Created        : 2023/06/22
+ @Modified       :
+ </summary>
+ <remarks>Class frmLogin</remarks>
+</member>
 </members>
 </doc>
